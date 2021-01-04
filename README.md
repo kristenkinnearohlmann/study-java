@@ -27,3 +27,14 @@ if (y > z) {
 }
 System.out.println(y);
 ```
+
+### BufferedReader
+```Java
+import java.util.Scanner;
+Scanner sc = new Scanner(System.in);
+
+int number = sc.nextInt();
+```
+
+### Misc
+- packages correspond to the concept of folders, classes to the concept of individual files
